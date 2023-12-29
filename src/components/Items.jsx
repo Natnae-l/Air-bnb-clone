@@ -6,7 +6,7 @@ import ellipse from '../images/Ellipse.png'
 export default function Items(){
     return (
          <section className="card">
-            <img src={sample} alt="" className='card--image'/>
+            <img src={sample} alt="" className='card--image' />
             <section className='card--stats'>
                 <img src={star} alt="" className='card--star'/>
                 <span>4.8</span>
