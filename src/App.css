@@ -36,16 +36,30 @@ section {
 }
 
 .hero--photo {
-  max-width: 400px;
+  max-width: 70%;
+  height: 300px;
   align-self: center;
 }
 
 .hero--header {
   margin-bottom: 16px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 .hero--text {
   margin-top: 0;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #222222; 
 }
 
 .cards-list {
