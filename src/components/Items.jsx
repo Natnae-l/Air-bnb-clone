@@ -1,5 +1,5 @@
 import React from 'react'
-import star from '../images/star-1.png'
+import star from '../images/Star-1.png'
 import sample from '../images/wedding-photography.jpg'
 import ellipse from '../images/Ellipse.png'
 
