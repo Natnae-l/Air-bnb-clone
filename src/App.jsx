@@ -19,6 +19,7 @@ function App() {
               rating={items.stats.rating}
               reviewCount={items.stats.reviewCount}
               location={items.location}
+              openSpots = {items.openSpots}
               />)
           })
   return (
